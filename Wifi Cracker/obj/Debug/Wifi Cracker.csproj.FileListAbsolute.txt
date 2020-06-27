@@ -1,0 +1,10 @@
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\bin\Debug\Wifi Cracker.exe.config
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\bin\Debug\Wifi Cracker.exe
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\bin\Debug\Wifi Cracker.pdb
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\bin\Debug\SimpleWifi.dll
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\obj\Debug\Wifi Cracker.csprojResolveAssemblyReference.cache
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\obj\Debug\Wifi_Cracker.Form1.resources
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\obj\Debug\Wifi_Cracker.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\obj\Debug\Wifi Cracker.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\obj\Debug\Wifi Cracker.exe
+D:\Bejjo\Tugas\Project\C#\Wifi Cracker\Wifi Cracker\obj\Debug\Wifi Cracker.pdb
